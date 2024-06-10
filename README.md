@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lzimmermann
 - 👀 I’m interested in coding and real big databases with lots of transactions
-- 🌱 I’m currently learning pyspark and python
-- 💞️ I’m looking to collaborate on sensor data collection, monitoring and analysis
+- 🌱 - 💞️ I’m looking to collaborate on sensor data collection, monitoring and analysis
 - 📫 How to reach me lzimmermann@live.de
 
 <!---
